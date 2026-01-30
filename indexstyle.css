@@ -1,0 +1,49 @@
+h1 {background-color: purple;
+    color:gray;
+    font-family: Impact, Charcoal, sans-serif;
+    text-decoration: underline;
+}
+
+#title {
+    font-size:22px;
+    background-color: purple;
+    font-family: Impact, Charcoal, sans-serif;
+    color: gray;
+
+}
+
+#title2 {
+    font: size 18px;;
+    font-family: Impact, Charcoal, sans-serif;
+    color: purple;
+    text-decoration: underline;
+}
+
+
+p{
+    color: magenta;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    
+    
+
+}
+
+a{
+    color: #A4A400;
+}
+
+strong{
+    color: darkred;
+    
+    
+}
+
+#warning{
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+
+}
+
+body{
+    background-image: url(Images/gw2-is-there-a-map-with-the-top-view-of-the-backyard-v0-zvpjmxbfwh4e1.webp);
+}

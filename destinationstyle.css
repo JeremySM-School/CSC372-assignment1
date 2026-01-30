@@ -1,0 +1,67 @@
+h1{
+    background-color: aqua;
+    font-weight: bolder;
+    text-align: center;
+    color: goldenrod;
+    text-decoration: underline;
+
+}
+
+h2{
+    background-color: aqua;
+    text-align: left;
+    color: goldenrod;
+    text-decoration: underline;
+
+}
+
+p{
+    color: #404040;
+    background-color: white;
+    font-family: Georgia, serif
+
+}
+
+body{
+    background-image: url(Images/GRdbaryXsAAPlks.jpg);
+}
+li{
+    background-color: white;
+    color: black;
+}
+.image-list{
+    list-style-image: url(Images/icon.png);
+}
+
+a{
+    color: #A4A400;
+}
+
+#TOB{
+    background-color: white;
+    color: green;
+}
+
+#TOHD{
+    background-color: white;
+    color: darkred;
+}
+
+#TOR{
+    background-color: white;
+    color: darkblue;
+}
+
+#TOSS{
+    background-color: white;
+    color: goldenrod;
+}
+#RT{
+    background-color: white;
+    color: purple;
+}
+em{
+    font-style: italic;
+    background-color: #FFFFA8
+}
+
